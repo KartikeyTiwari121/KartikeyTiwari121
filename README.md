@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/KartikeyTiwari121">Kartikey Tiwari</a></h1>
 
 ## [🚀About Me]()
-<h3 align="center">Aspiring frontend developer from India exploring the world of web development. Learning, building, and sharing my coding journey. 🚀</h3>
+<h3 align="center">Aspiring <a href="">frontend developer</a> from India exploring the world of web development. Learning, building, and sharing my coding journey. 🚀</h3>
 
 <img align="right" alt="Coding" width="200" src="https://avatars.githubusercontent.com/u/131117243?v=4">
 
@@ -22,7 +22,8 @@
 ## 📱Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartikey-tiwari-868007231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikey-tiwari-868007231/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartikeytiwari121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeytiwari121" height="30" width="40" /></a>
+
 </p>
 
 ----
