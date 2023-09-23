@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/KartikeyTiwari121">Kartikey Tiwari</a></h1>
 
 ## [🚀About Me]()
-<h3 align="center">Aspiring <a href="">frontend developer</a> from India exploring the world of web development. Learning, building, and sharing my coding journey. 🚀</h3>
+<h3 align="center"> Aspiring <a href="">frontend developer</a> from India exploring the world of web development. Learning, building, and sharing my coding journey. 🚀</h3>
 
 <img align="right" alt="Coding" width="200" src="https://avatars.githubusercontent.com/u/131117243?v=4">
 
